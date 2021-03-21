@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c0e9a0521a4cc0f8ac7",
-    "url": "/css/app.2727cdf2.css"
+    "revision": "f6f21309cad3b27396ba",
+    "url": "/css/app.c6219ac8.css"
   },
   {
     "revision": "36b8daddece8b9fca9c2",
@@ -96,12 +96,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/woman-computer.b402ff67.jpg"
   },
   {
-    "revision": "f2a591aa6f35989534fea9729a9683ce",
+    "revision": "6c444bd79d93b09fcb634781354475ea",
     "url": "/index.html"
   },
   {
-    "revision": "9c0e9a0521a4cc0f8ac7",
-    "url": "/js/app.4fd212cf.js"
+    "revision": "f6f21309cad3b27396ba",
+    "url": "/js/app.1ebfb857.js"
   },
   {
     "revision": "36b8daddece8b9fca9c2",
@@ -234,6 +234,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "73da39c416072926b0cf",
     "url": "/js/chunk-2d210c2b.dd3ceb9a.js"
+  },
+  {
+    "revision": "ac3a5c85c8570d08d024",
+    "url": "/js/chunk-2d212f4b.2de1013b.js"
   },
   {
     "revision": "00b030cb74079072f0e5",
