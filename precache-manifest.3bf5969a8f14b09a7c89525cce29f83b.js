@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f507551ec1871ecbc19d",
+    "revision": "faa994befe9933a88676",
     "url": "/css/app.26368c79.css"
   },
   {
@@ -96,12 +96,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/woman-computer.b402ff67.jpg"
   },
   {
-    "revision": "9cec017c60b48f469be3fba84e2f3f87",
+    "revision": "c3990984bb6c1ad53982e9f470f10712",
     "url": "/index.html"
   },
   {
-    "revision": "f507551ec1871ecbc19d",
-    "url": "/js/app.7a99d71a.js"
+    "revision": "faa994befe9933a88676",
+    "url": "/js/app.5a42223e.js"
   },
   {
     "revision": "0decc5c183e061feaee9",
