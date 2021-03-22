@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.e0536d4d0586681a66a9e8283429863c.js"
+  "/precache-manifest.1c2609e572979719070c94d5eef692cb.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "sq-learn"});
